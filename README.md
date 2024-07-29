@@ -1,5 +1,14 @@
-## Hi there 👋
+# Bienvenidos
 
+![image](https://github.com/user-attachments/assets/2b777c4c-4e7a-4c70-a49d-3a7ca2059660)
+
+
+Soy estudiante de Ingenieria en Ciencias Computacionales a quien le gusta resolver problemas tecnicos
+
+🏫 Estudio en la Universidad Especialidades Espiritu Santo
+💁 Estoy cursando el quinto semestre
+🤔
+😄Me gusta 
 <!--
 **JoselineVergara/JoselineVergara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
