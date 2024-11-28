@@ -7,8 +7,7 @@ Soy estudiante de Ingenieria en Ciencias Computacionales a quien le gusta resolv
 
 🏫 Estudio en la Universidad Especialidades Espiritu Santo
 💁 Estoy cursando el quinto semestre
-🤔
-😄Me gusta 
+
 <!--
 **JoselineVergara/JoselineVergara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
